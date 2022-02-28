@@ -1,6 +1,8 @@
 <h1 align="center">Ice Sream</h1>
 
-![](profile.gif)
+<p align="center">
+  <img src="profile.gif">
+</p
 
 <p>I'm interested in math, information security and development. (Eu estou interessado em matemática, segurança da informação e desenvolvimento.)</p>
 
