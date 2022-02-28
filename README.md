@@ -1,4 +1,4 @@
-<h1 align="center">Ice Sream</h1>
+<h1 align="center">Ice Cream</h1>
 
 <p align="center">
   <img src="profile.gif">
