@@ -1,5 +1,7 @@
 <h1 align="center">Ice Sream</h1>
 
+![](profile.gif)
+
 <p>I'm interested in math, information security and development. (Eu estou interessado em matemática, segurança da informação e desenvolvimento.)</p>
 
 <h3 align="left">Connect with me:</h3>
