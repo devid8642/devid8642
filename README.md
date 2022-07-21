@@ -4,7 +4,7 @@
   <img src="profile.gif">
 </p
 
-<p>I'm interested in math, programming and infosec.</p>
+<p>I'm interested in math, competitive programming and infosec.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
