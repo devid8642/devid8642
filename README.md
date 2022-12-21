@@ -1,6 +1,6 @@
 <h1 align="center">Hi</h1>
 
-<p>I'm interested in math, web development and infosec.</p>
+<p>I'm interested in math, web development and cybersecurity.</p>
 
 <p>Sometimes a little CP too.</p>
 
