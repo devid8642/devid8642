@@ -1,8 +1,6 @@
 <h1 align="center">Hey</h1>
 
-<p>I'm interested in web development and Linux.</p>
-
-<p>Sometimes a little CP and math too.</p>
+<p>Sou um estudante de Computação e Matemática, interesso-me principalmente por web dev. Jogo FPS e pratico programação competitiva como hobby.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
