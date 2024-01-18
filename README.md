@@ -1,6 +1,10 @@
 <h1 align="center">Hey</h1>
 
-<p>Sou um estudante de Computação e Matemática, interesso-me principalmente por web dev. Jogo FPS e pratico programação competitiva como hobby.</p>
+<p>
+Python web dev (Django/Flask/FastAPI). Técnico em informática no IFPB e graduação em andamento em Ciência da Computação na Estácio. Possuo conhecimentos na área de sysadmin/devops apesar de não ser minha especialização principal.
+
+Além disso sempre busco aprimorar meus conhecimentos de lógica de programação, algoritmos e estrutura de dados praticando com problemas de code wars.
+</p>
 
 <h3 align="left">Meu discord:</h3>
 <p align="left">
