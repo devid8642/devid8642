@@ -1,9 +1,9 @@
 <h1 align="center">Hey</h1>
 
 <p>
-Python web dev (Django/Flask/FastAPI). Técnico em informática no IFPB e graduação em andamento em Ciência da Computação na Estácio. Possuo conhecimentos na área de sysadmin/devops apesar de não ser minha especialização principal.
+Sou desenvolvedor web Python, capaz de construir aplicações web utilizando ferramentas como Django, Flask e FastAPI. Além disso, também construo interfaces web para essas aplicações utilizando tecnologias como: HTML, CSS, JavaScript, Bootstrap e HTMX. Gerencio e implemento os projetos desenvolvidos com essas tecnologias utilizando ferramentas e as mais modernas práticas de engenharia de software e devops: twelve-factor practices, versionameto com Git, testes automatizados, conteinerização com Docker e CI/CD.
 
-Além disso sempre busco aprimorar meus conhecimentos de lógica de programação, algoritmos e estrutura de dados praticando com problemas de code wars.
+Estudante de Ciência da Computação na Estácio. Técnico em informática, com ênfase em programação, pelo IFPB. 
 </p>
 
 <h3 align="left">Meu discord:</h3>
