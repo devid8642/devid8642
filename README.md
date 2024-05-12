@@ -1,7 +1,7 @@
 <h1 align="center">Hey</h1>
 
 <p>
-Sou desenvolvedor web Python, capaz de construir aplicações web utilizando ferramentas como Django, Flask e FastAPI. Além disso, também construo interfaces web para essas aplicações utilizando tecnologias como: HTML, CSS, JavaScript, Bootstrap e HTMX. Gerencio e implemento os projetos desenvolvidos com essas tecnologias utilizando ferramentas e as mais modernas práticas de engenharia de software e devops: twelve-factor practices, versionameto com Git, testes automatizados, conteinerização com Docker e CI/CD.
+Desenvolvedor de software, trabalho principalmente com Python e as tecnologias de seu ecossistema como Django, Flask, FastAPI, Celery etc. Gerencio e implemento os projetos desenvolvidos com essas tecnologias utilizando ferramentas e as mais modernas práticas de engenharia de software e DevOps: twelve-factor practices, versionameto com Git, testes automatizados, conteinerização com Docker e CI/CD.
 
 Estudante de Ciência da Computação na Estácio. Técnico em informática, com ênfase em programação, pelo IFPB. 
 </p>
