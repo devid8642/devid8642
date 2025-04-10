@@ -1,22 +1,24 @@
 <h1 align="center">Hey</h1>
 
-<ul style="list-style: none;">
-  <li>
-    💻 Backend developer focused on Python with strong proficiency in Django, FastAPI, Flask, and core libraries from the Python ecosystem.
-  </li>
+<p>
+  💻 Backend developer focused on Python with strong proficiency in Django, FastAPI, Flask, and core libraries from the Python ecosystem.
+</p>
 
-  <li>
-    🗄️ Solid experience with PostgreSQL, MongoDB, Redis, and distributed task queues using Celery + RabbitMQ.
-  </li>
+<p>
+  🗄️ Solid experience with PostgreSQL, MongoDB, Redis, and distributed task queues using Celery + RabbitMQ.
+</p>
 
-  <li>
-    🛠️ Sysadmin knowledge applied to backend: I prepare environments from scratch using Docker (Swarm) for deployment and automation.
-  </li>
+<p>
+  🛠️ Sysadmin knowledge applied to backend: I prepare environments from scratch using Docker (Swarm) for deployment and automation.
+</p>
 
-  <li>
-    📚 Computer Science student (Estácio) | Technical degree in IT (IFPB).
-  </li>
-</ul>
+<p>
+  📚 Computer Science student (Estácio) | Technical degree in IT (IFPB).
+</p>
+
+<p>
+  <em>🧒 Coding since I was 12 — and I never really stopped.</em>
+</p>
 
 <h3 align="left">My discord:</h3>
 <p align="left">
