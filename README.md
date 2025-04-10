@@ -1,9 +1,11 @@
 <h1 align="center">Hey</h1>
 
 <p>
-Desenvolvedor de software, trabalho principalmente com Python e as tecnologias de seu ecossistema como Django, Flask, FastAPI, Celery etc. Gerencio e implemento os projetos desenvolvidos com essas tecnologias utilizando ferramentas e as mais modernas práticas de engenharia de software e DevOps: twelve-factor practices, versionameto com Git, testes automatizados, conteinerização com Docker e CI/CD.
-
-Estudante de Ciência da Computação na Estácio. Técnico em informática, com ênfase em programação, pelo IFPB. 
+💻 Backend developer focused on Python with strong proficiency in Django, FastAPI, Flask, and core libraries from the Python ecosystem.
+🗄️ Solid experience with PostgreSQL, MongoDB, Redis, and distributed task queues using Celery + RabbitMQ.
+🛠️ Sysadmin knowledge applied to backend: I prepare environments from scratch using Docker (Swarm) for deployment and automation.
+📚 Computer Science student (Estácio) | Technical degree in IT (IFPB).
+🤝 Always up for a chat on Discord: devidd
 </p>
 
 <h3 align="left">Meu discord:</h3>
