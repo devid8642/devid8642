@@ -12,7 +12,6 @@
   🛠️ Sysadmin knowledge applied to backend: I prepare environments from scratch using Docker (Swarm) for deployment and automation.
 </p>
 
-<h3 align="left">My discord:</h3>
-<p align="left">
-<a href="https://discord.gg/PoH#4968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PoH#4968" height="30" width="40" /></a>
-</p>
+<hr>
+
+<a href="https://www.linkedin.com/in/devid-teofilo/" target="_blank">Linkedin</a>
