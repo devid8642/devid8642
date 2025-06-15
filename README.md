@@ -27,7 +27,7 @@ Currently based in Brazil 🇧🇷.
 
 ## 🔧 Main skills
 
-- Python (Django, FastAPI)
+- Python (Django and FastAPI specialist)
 - SQL & NoSQL Databases
 - Distributed task queues (Celery)
 - Automation (Selenium, Requests, BeautifulSoup4)
