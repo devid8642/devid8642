@@ -5,8 +5,6 @@
 Hi, I'm **Dêvid**, a Python developer specialized in Django and FastAPI, focused on building scalable backends, automation solutions, and GenAI applications. I have strong experience with distributed task queues, databases, and cloud services.  
 Currently based in Brazil 🇧🇷.
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -27,8 +25,6 @@ Currently based in Brazil 🇧🇷.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
 </div>
 
----
-
 ## 🔧 Main skills
 
 - Python (Django, FastAPI)
@@ -38,11 +34,7 @@ Currently based in Brazil 🇧🇷.
 - GenAI applications (LangChain, PydanticAI)
 - Sotfware development for business growth
 
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devid-teofilo/)
 [![Email](https://img.shields.io/badge/Email-Dêvid-red)](mailto:devid_teofilo1@outlook.com)
-
----
