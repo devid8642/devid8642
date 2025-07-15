@@ -24,7 +24,6 @@ Currently based in Brazil 🇧🇷.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=XfjNd4vkhBBy&format=png&color=000000" height="40" alt="Minecraft" />
 </div>
 
 ## 🔧 Main skills
@@ -35,7 +34,6 @@ Currently based in Brazil 🇧🇷.
 - Automation (Selenium, Requests, BeautifulSoup4)
 - GenAI applications (LangChain, PydanticAI)
 - Sotfware development for business growth
-- I Minecraft Bedwars Pro Player 🛏
 
 ## 📫 Contact
 
