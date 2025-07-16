@@ -5,6 +5,12 @@
 Hi, I'm **Dêvid**, a Python developer specialized in Django and FastAPI, focused on building scalable backends, automation solutions, and GenAI applications. I have strong experience with distributed task queues, databases, and cloud services.  
 Currently based in Brazil 🇧🇷.
 
+## 💼 Work
+
+At the moment, I work as a **Python developer** at a Brazilian software house called **Codevance**, which specializes in Python-based solutions.
+
+I'm currently part of the team responsible for building and maintaining **Tintim**, a SaaS product developed using Django. My work focuses on backend development, API design, scalability, and integration of business logic to deliver a robust and efficient platform.
+
 ## 🛠️ Tech Stack
 
 <div align="center">
