@@ -34,12 +34,12 @@ I'm currently part of the team responsible for building and maintaining **Tintim
 
 ## 🔧 Main skills
 
+- Sotfware development for business growth
 - Python (Django and FastAPI specialist)
 - SQL & NoSQL Databases
 - Distributed task queues (Celery)
 - Automation (Selenium, Requests, BeautifulSoup4)
 - GenAI applications (LangChain, PydanticAI)
-- Sotfware development for business growth
 
 ## 📫 Contact
 
